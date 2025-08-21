@@ -36,7 +36,7 @@ A modern, user-friendly graphical interface for managing Stormshield SNS applian
 
 ##  Quick Start
 
-### Option 1: Automated Setup (Windows)
+### Option 1: Automated Setup for Windows (PY to EXE with pyinstaller)
 
 1. **Clone the repository**:
    ```bash
@@ -54,7 +54,7 @@ A modern, user-friendly graphical interface for managing Stormshield SNS applian
    scripts\launch.bat
    ```
 
-### Option 2: Manual Installation
+### Option 2: Manual launch (Linux/Windows/MacOS)
 
 1. **Clone the repository and install dependencies**:
    ```bash
@@ -76,6 +76,7 @@ A modern, user-friendly graphical interface for managing Stormshield SNS applian
 3. Wait for connection confirmation
 
 ### 2. Command Configuration
+- Click on "Commands" tab
 - **Load from file**: Click "Browse" to select a command file
 - **Manual entry**: Type commands directly in the text area
 
@@ -83,6 +84,22 @@ A modern, user-friendly graphical interface for managing Stormshield SNS applian
 1. Click "Execute Commands"
 2. Monitor progress in the progress bar
 3. View results in the Results tab
+
+### 4. Backup File decryptor
+1. Click "Backup Extractor" tab
+2. Browse for backup file (*.na)
+3. Click "Extract backup file" button
+4. Backup extracted into the same folder as the backupfile.na
+
+### 5. Backup & Sytem Info
+- On "Connection" page, after connecting to appliance, you can export a fresh backup of the SNS. You can also export system information for troubleshooting purposes.
+
+### 6. Monitoring (WIP)
+- You can monitor some of items as CPU, RAM, Interfaces, IPSEC Tunnels, Users, ...
+1. Click on "Monitor" tab
+2. Click on the item that you want to monitor
+3. At the execution, the output is reloaded each 2 seconds
+4. Click "STOP" to terminate loop.
 
 ##  Building Executable
 
@@ -98,4 +115,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ##  Disclaimer
 
 This tool is designed for legitimate network administration purposes. Users are responsible for ensuring they have proper authorization before connecting to any Stormshield appliances.
+
 
