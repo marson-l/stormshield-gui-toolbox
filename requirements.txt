@@ -1,0 +1,6 @@
+PyQt6>=6.4.0
+stormshield.sns.sslclient
+colorama>=0.4.4
+certifi>=2023.5.7
+pyinstaller>=5.0.0
+PyQt6-WebEngine>=6.9.0
