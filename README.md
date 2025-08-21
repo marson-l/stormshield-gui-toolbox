@@ -40,7 +40,7 @@ A modern, user-friendly graphical interface for managing Stormshield SNS applian
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/stormshield-cli-gui.git
+   git clone https://github.com/marson-l/stormshield-cli-gui.git
    cd stormshield-cli-gui
    ```
 
@@ -58,7 +58,7 @@ A modern, user-friendly graphical interface for managing Stormshield SNS applian
 
 1. **Clone the repository and install dependencies**:
    ```bash
-   git clone https://github.com/yourusername/stormshield-cli-gui.git
+   git clone https://github.com/marson-l/stormshield-cli-gui.git
    cd stormshield-cli-gui
    pip install -r requirements.txt
    ```
@@ -98,3 +98,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ##  Disclaimer
 
 This tool is designed for legitimate network administration purposes. Users are responsible for ensuring they have proper authorization before connecting to any Stormshield appliances.
+
