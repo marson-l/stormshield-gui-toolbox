@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20|%20Linux%20|%20macOS-lightgrey.svg)]()
 
+![Screenshot_1](https://github.com/user-attachments/assets/78c45979-a728-4b37-baa3-78f1c8abf22e)
+
 A modern, user-friendly graphical interface for managing Stormshield SNS appliances. This application transforms the command-line interface into an intuitive GUI with modern styling and advanced features.
 
 ##  Features
@@ -117,6 +119,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ##  Disclaimer
 
 This tool is designed for legitimate network administration purposes. Users are responsible for ensuring they have proper authorization before connecting to any Stormshield appliances.
+
 
 
 
