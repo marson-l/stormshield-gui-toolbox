@@ -86,6 +86,8 @@ A modern, user-friendly graphical interface for managing Stormshield SNS applian
 3. View results in the Results tab
 
 ### 4. Backup File decryptor
+‼️"decbackup.exe" must be into the same folder as the main-gui.py script (or .exe if built)
+You can also find decbackup tool into last "Release packages"
 1. Click "Backup Extractor" tab
 2. Browse for backup file (*.na)
 3. Click "Extract backup file" button
@@ -115,5 +117,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ##  Disclaimer
 
 This tool is designed for legitimate network administration purposes. Users are responsible for ensuring they have proper authorization before connecting to any Stormshield appliances.
+
 
 
